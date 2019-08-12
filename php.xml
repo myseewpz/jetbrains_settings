@@ -7,7 +7,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="D:\phpStudy\PHPTutorial\php\php-7.0.12-nts\php.exe" id="c92b1c47-6849-4656-8cf9-ef2def00eb19" name="PHP 7.0" debugger_id="php.debugger.XDebug" />
+      <interpreter id="c92b1c47-6849-4656-8cf9-ef2def00eb19" name="PHP 7.0" home="D:\phpStudy\PHPTutorial\php\php-7.0.12-nts\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
