@@ -45,6 +45,7 @@
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="igbinary" />
+            <extension name="imap" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
@@ -58,6 +59,7 @@
             <extension name="redis" />
             <extension name="session" />
             <extension name="soap" />
+            <extension name="sockets" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
